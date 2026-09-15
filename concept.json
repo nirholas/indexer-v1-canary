@@ -1,0 +1,11 @@
+{
+  "slug": "indexer-v1-canary",
+  "name": "Indexer V1 Canary",
+  "kind": "tooling",
+  "description": "Test whether an indexer preserves Message.config instead of silently downgrading v1.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
