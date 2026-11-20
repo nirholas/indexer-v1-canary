@@ -8,7 +8,7 @@ Test whether an indexer preserves Message.config instead of silently downgrading
 
 - Source: https://github.com/nirholas/indexer-v1-canary
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
